@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m NoHairGG, currently studying in CUHK
-
+🔭 I’m TANG Kai Yui (NoHairGG), ready to graduate from CUHK :)
 <!--
 **NoHairGG/NoHairGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
